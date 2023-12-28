@@ -35,7 +35,7 @@ To use this application, follow these steps:
 
 ## Dependencies
 
-- **.NET Framework:** This application is built using ('4.7.2 .NET Framework').
+- **.NET Framework:** This application is built using `4.7.2 .NET Framework`.
 
 ## Contributing
 
