@@ -1,0 +1,10 @@
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\bin\Debug\Toggle dark mode light mode themes.exe.config
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\bin\Debug\Toggle dark mode light mode themes.exe
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\bin\Debug\Toggle dark mode light mode themes.pdb
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\obj\Debug\Toggle dark mode light mode themes.csproj.AssemblyReference.cache
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\obj\Debug\Toggle_dark_mode_light_mode_themes.Form1.resources
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\obj\Debug\Toggle_dark_mode_light_mode_themes.Properties.Resources.resources
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\obj\Debug\Toggle dark mode light mode themes.csproj.GenerateResource.cache
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\obj\Debug\Toggle dark mode light mode themes.csproj.CoreCompileInputs.cache
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\obj\Debug\Toggle dark mode light mode themes.exe
+C:\Users\NattyXO\source\repos\Toggle dark mode light mode themes\Toggle dark mode light mode themes\obj\Debug\Toggle dark mode light mode themes.pdb
