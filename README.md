@@ -23,7 +23,7 @@ Toggle Dark Mode/Light Mode Themes is a simple Windows Forms application that al
 
 To use this application, follow these steps:
 
-1. **Clone the Repository:** `git clone https://github.com/NattyXO/Toggle_dark_mode_light_mode_themes.git`
+1. **Clone the Repository:** `git clone https://github.com/NattyXO/Themes-Changer-Windows-Form.git`
 2. **Open in Visual Studio:** Open the solution file in Visual Studio.
 3. **Build and Run:** Build the project and run the application.
 
@@ -35,7 +35,7 @@ To use this application, follow these steps:
 
 ## Dependencies
 
-- **.NET Framework:** This application is built using .NET Framework.
+- **.NET Framework:** This application is built using ('4.7.2 .NET Framework').
 
 ## Contributing
 
